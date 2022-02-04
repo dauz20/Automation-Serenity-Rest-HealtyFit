@@ -1,4 +1,4 @@
-package starter.postcodes;
+package starter.postcodes.step;
 
 import io.restassured.RestAssured;
 import net.serenitybdd.rest.SerenityRest;

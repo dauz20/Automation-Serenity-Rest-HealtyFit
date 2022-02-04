@@ -1,10 +1,10 @@
-package starter.postcodes;
+package starter.postcodes.StepDefintion;
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import io.restassured.RestAssured;
-import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Steps;
+import starter.postcodes.utility.LocationResponse;
+import starter.postcodes.step.PostCodeAPI;
 
 import static net.serenitybdd.rest.SerenityRest.restAssuredThat;
 import static org.hamcrest.Matchers.equalTo;
