@@ -1,4 +1,4 @@
-Feature: Login HealtyFit
+Feature: Login User HealtyFit
 
   @TestingLogin
   Scenario: (+) Login with valid data

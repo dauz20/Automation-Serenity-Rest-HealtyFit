@@ -1,4 +1,4 @@
-package starter.postcodes.step;
+package starter.healtyfit.step;
 
 import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Step;

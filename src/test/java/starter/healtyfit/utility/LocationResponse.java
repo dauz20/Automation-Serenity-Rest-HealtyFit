@@ -1,4 +1,4 @@
-package starter.postcodes.utility;
+package starter.healtyfit.utility;
 
 public class LocationResponse {
     public static final String COUNTRY = "'country'";

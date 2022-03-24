@@ -1,4 +1,4 @@
-package starter.postcodes.utility.UserListResponse;
+package starter.healtyfit.utility.UserListResponse;
 
 public class UserListResponse {
     public static final String total="'total'";

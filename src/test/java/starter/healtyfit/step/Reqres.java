@@ -1,4 +1,4 @@
-package starter.postcodes.step;
+package starter.healtyfit.step;
 
 
 import io.restassured.http.ContentType;

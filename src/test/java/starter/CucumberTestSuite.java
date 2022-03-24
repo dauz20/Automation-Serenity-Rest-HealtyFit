@@ -9,7 +9,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {"pretty"},
         features = "classpath:features",
-        tags = "@createUser"
+        tags = "@GetGoalUser02"
+
 )
 public class CucumberTestSuite {
 

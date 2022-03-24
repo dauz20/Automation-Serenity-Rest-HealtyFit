@@ -1,11 +1,11 @@
-package starter.postcodes.StepDefintion;
+package starter.healtyfit.StepDefintion;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Steps;
-import starter.postcodes.step.Reqres;
+import starter.healtyfit.step.Reqres;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 
