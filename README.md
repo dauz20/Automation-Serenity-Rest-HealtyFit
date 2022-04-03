@@ -16,9 +16,9 @@
     ·
      <a href="https://app.swaggerhub.com/apis/aaryadewangga/Final_Project/1.0#/">Open API</a>
     ·
-    <a href="https://github.com/FINAL-PROJECT-ALTA/FE">Front-End</a>
+    <a href="https://github.com/FINAL-PROJECT-ALTA/BE">Back-End</a>
     ·
-    <a href="https://github.com/FINAL-PROJECT-ALTA/QE">Quality-Engineer</a>
+    <a href="https://github.com/FINAL-PROJECT-ALTA/FE">Front-End</a>
   </p>
 </div>
 <br />
