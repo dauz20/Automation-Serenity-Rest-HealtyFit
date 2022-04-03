@@ -2,6 +2,12 @@
 
 # Healthy Fit
 
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://raw.githubusercontent.com/FINAL-PROJECT-ALTA/FE/development/image/logo-white.png">
+    <img src="https://raw.githubusercontent.com/FINAL-PROJECT-ALTA/FE/development/image/logo-white.png" alt="Logo" width="250" height="180">
+  </a>
+
 
   <h3 align="center">Healthy Fit</h3>
   <p align="center">
