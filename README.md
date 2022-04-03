@@ -9,9 +9,9 @@
   </a>
 
 
-  <h3 align="center">Healthy Fit</h3>
-  <p align="center">
-   An application that aims its users to monitor eating behavior on a daily basis
+<h3 align="center">Healthy Fit</h3>
+<p align="center">
+ An application that aims its users to monitor eating behavior on a daily basis
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
