@@ -36,7 +36,7 @@
 
 <!-- ABOUT TESTING PROJECT -->
 ## About Testing Project
-  Perform manual and automatic testing on the features in the healthy fit application, to find out application is running according to its function, such as providing food recommendations to users who are living a healthy lifestyle, to adjust their diet
+  Perform manual and automation testing on the features in the healthy fit application, to find out application is running according to its function, such as providing food recommendations to users who are living a healthy lifestyle, to adjust their diet
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
