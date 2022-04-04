@@ -13,6 +13,7 @@
    An application that aims its users to monitor eating behavior on a daily basis
     <br />
     <div id = "other-software-design"></div>
+     <a href="https://healthyfit.web.app/">Demo Web</a>
     ·
      <a href="https://app.swaggerhub.com/apis/aaryadewangga/Final_Project/1.0#/">Open API</a>
     ·
