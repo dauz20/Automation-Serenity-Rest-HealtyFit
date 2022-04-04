@@ -26,6 +26,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 - [About Testing Project](#about-testing-project)
+- [Feature](#feature
 - [Tech Stack](#tech-stack)
   - [Tools](#tools)
   - [Collaboration](#collaboration)
@@ -38,6 +39,21 @@
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- FEATURE -->
+## Feature
+-  Login and Logout
+-  Create account registration
+
+As Users
+-  see the content of the food or drink
+-  set a goal to get a recommendation menu calculation
+-  choose the recommend menu
+-  view the history of the selected menu
+
+As Admin
+-  CRUD types of food, drinks, fruit, snacks
+-  CRUD types of recommend menu
 
 <!-- TEST STACK -->
 ## Tech Stack
