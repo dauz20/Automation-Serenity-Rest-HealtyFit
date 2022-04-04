@@ -35,7 +35,7 @@
 
 <!-- ABOUT TESTING PROJECT -->
 ## About Testing Project
-  perform manual and automatic testing on the features in the healthy fit application, to find out application is running according to its function, such as providing food recommendations to users who are living a healthy lifestyle, to adjust their diet
+  Perform manual and automatic testing on the features in the healthy fit application, to find out application is running according to its function, such as providing food recommendations to users who are living a healthy lifestyle, to adjust their diet
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -46,10 +46,10 @@
 -  Create account registration
 
 As Users
--  see the content of the food or drink
--  set a goal to get a recommendation menu calculation
--  choose the recommend menu
--  view the history of the selected menu
+-  See the content of the food or drink
+-  Set a goal to get a recommendation menu calculation
+-  Choose the recommend menu
+-  View the history of the selected menu
 
 As Admin
 -  CRUD types of food, drinks, fruit, snacks
@@ -57,6 +57,7 @@ As Admin
 
 <!-- TEST STACK -->
 ## Tech Stack
+
 ### Tools for Manual Testing
 - [Postman](https://www.postman.com/)
 - [Google Sheet](https://www.google.com/sheets/about/)
