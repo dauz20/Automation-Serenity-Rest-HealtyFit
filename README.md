@@ -26,7 +26,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 - [About Testing Project](#about-testing-project)
-- [Feature](#feature
+- [Feature](#feature)
 - [Tech Stack](#tech-stack)
   - [Tools](#tools)
   - [Collaboration](#collaboration)
