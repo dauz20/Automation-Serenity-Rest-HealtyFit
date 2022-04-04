@@ -82,7 +82,7 @@ As Admin
 
 <!-- DOCUMENTATION -->
 ## Documentation
-- [Automation testing](https://github.com/FINAL-PROJECT-ALTA/QE-AUTOMATION-API/tree/main/HealtyFit/Screenshoot)
+- [Automation Testing](https://github.com/FINAL-PROJECT-ALTA/QE-AUTOMATION-API/tree/main/HealtyFit/Screenshoot)
 - [Manual Testing](https://docs.google.com/spreadsheets/d/1J6ZMbdkgrwzL1V9sL0mY4uPp_2B0nAIrHSiXlQF-WOk/edit?usp=sharing)
 
 <!-- CONTACT -->
