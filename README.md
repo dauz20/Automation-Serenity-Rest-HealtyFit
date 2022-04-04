@@ -41,22 +41,30 @@
 
 <!-- TEST STACK -->
 ## Tech Stack
-### Tools
-- [Postman](https://www.postman.com/) - API Testing
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Automation Testing
-- [Google Sheet](https://www.google.com/sheets/about/) - Manual Test Scenario
+### Tools for Manual Testing
+- [Postman](https://www.postman.com/)
+- [Google Sheet](https://www.google.com/sheets/about/)
+- [Google Chrome](https://www.google.com/chrome/)
+
+### Tools for Automation Testing
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Java](https://www.java.com/en/)
+- [Maven](https://maven.apache.org/)
+- [Serenity BDD](https://serenity-bdd.info/)
+- [Google Chrome](https://www.google.com/chrome/)
 
 ### Collaboration 
-- [Trello](https://trello.com/) - Manage Project
-- [Github](https://github.com/) - Versioning Project
+- [Trello](https://trello.com/)
+- [Github](https://github.com/)
+- [Telegram](https://web.telegram.org/)
+- [Google Meet](https://github.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- DOCUMENTATION -->
 ## Documentation
-- Automation testing
-- Manual Testing
-- Test Scenario
+- [Automation testing](https://github.com/FINAL-PROJECT-ALTA/QE-AUTOMATION-API/tree/main/HealtyFit/Screenshoot)
+- [Manual Testing](https://docs.google.com/spreadsheets/d/1J6ZMbdkgrwzL1V9sL0mY4uPp_2B0nAIrHSiXlQF-WOk/edit?usp=sharing)
 
 <!-- CONTACT -->
 ## Contact
